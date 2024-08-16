@@ -1,0 +1,41 @@
+body{
+    background-color: antiquewhite;
+}
+
+
+.bgimg1 {
+    color: bisque;
+}
+.addimg1{
+    background-image: url(./assets/amirali-mirhashemian-88YAXjnpvrM-unsplash.jpg);
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 2px solid red;
+}
+
+.addimg2{
+    background-image: url(./assets/amirali-mirhashemian-dyMvDxO3nkE-unsplash.jpg);
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 2px solid red;
+}
+
+.bgimg1{
+    padding: 30px 0px;
+    background-image: url(./assets/vinitha-v-x_wBgeNg11o-unsplash.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bgimg2{
+    background-image: url(./assets/mufid-majnun-bZPxuVPgOCU-unsplash.jpg);
+    margin-top: 40px;
+}
